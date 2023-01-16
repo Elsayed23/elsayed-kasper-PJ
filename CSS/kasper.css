@@ -1087,7 +1087,7 @@ header .container .links  {
     font-weight: bold;
 }
 /* End Footer */
-@media (max-width: 991px) {
+@media (max-width: 767px) {
     header .container .P-links  {
         display: none;
     } 
